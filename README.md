@@ -2,7 +2,7 @@
 Esse é um projeto que aborda as técnicas Front End com o HTML, CSS e JS.
 Em produção...🦾👨‍💻
 
-[<img src="./capa.JPG" alt="Imagem Capa Notícias" title="Notícias">]
+[<img src="./src/images/capa.JPG" alt="Imagem Capa Notícias" title="Notícias">]
 
 ## Tecnologias Utilizadas
 - HTML

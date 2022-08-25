@@ -10,3 +10,6 @@ Em produção...🦾👨‍💻
 
 ## Como Utilizar
 Site de notícias e entretenimento. Navegação de páginas e exploração. 
+
+## Link da Página
+https://oseiasweb.github.io/Site-Noticias/

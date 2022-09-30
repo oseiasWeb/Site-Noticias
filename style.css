@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
     font-family: 'Montserrat', sans-serif;
+
 }
 
 html {
@@ -47,7 +48,7 @@ body {
 
 .container ul li{
     list-style: none;
-    width: calc(100% / 5); height: 100%;
+    width: calc(100% / 4); height: 100%;
     float: left;
 }
 

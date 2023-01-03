@@ -1,15 +1,24 @@
-# Projeto Site de Notícias (HTML+CSS)
-Esse é um projeto que aborda as técnicas Front End com o HTML, CSS e JS.
-Em produção...🦾👨‍💻
+<h1 align="center">Site Notícias</h1>
 
-[<img src="./src/imagens/animacao.gif" alt="Imagem Capa home" title="Tech Brasil">]
+<p>A ideia do projeto nasceu com estudos em HTML, CSS e JS. Aos poucos o site está ganhado forma. Teremos o modelo de análises, notícias e contatos dos portais mais atuais do mercado.
 
-## Tecnologias Utilizadas
-- HTML
-- CSS
+<h2 align="center">*** Tecnologias Utilizadas ***</h2>
+<ul>
+    <li>HTML ✏️</li>
+    <li>CSS 🎨</li>
+</ul>
 
-## Como Utilizar
-Site de notícias e entretenimento. Navegação de páginas e exploração. 
+<h2 align="center">*** Como Utilizar ***</h2>
+<p>É possível navegar pelo home, review, notícias e contatos. Abaixo temos um pequeno gif com a apresentação do site:</p>
 
-## Link da Página
-https://oseiasweb.github.io/Site-Noticias/
+<img src="./src/imagens/animacao.gif" alt="Imagem Capa home" title="Tech Brasil">
+
+<h2 align="center">*** Link da Página ***</h2>
+<p>Abaixo temos o link da página para visualização e testes:</p>
+🔗 <a href="https://oseiasweb.github.io/Site-Noticias/" target="_black">Site Notícias</a><br> 
+
+<br>
+<h2 align="center">*** Status Projeto ***</h2>
+<p align="center">
+    <img src="./src/imagens/desenvolvimento.png" alt="Imagem Status" title="Tech Brasil">
+</p>

@@ -1,6 +1,6 @@
 <h1 align="center">Site Notícias</h1>
 
-<p>A ideia do projeto nasceu com estudos em HTML, CSS e JS. Aos poucos o site está ganhado forma. Teremos o modelo de análises, notícias e contatos.
+<p>A ideia do projeto nasceu com estudos em HTML, CSS e JS. Aos poucos o site está ganhado forma. Teremos o modelo de análises, notícias e contatos dos portais mais atuais do mercado.
 
 ## Tecnologias Utilizadas
 - HTML

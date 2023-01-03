@@ -7,11 +7,11 @@
     <li>HTML ✏️</li>
     <li>CSS 🎨</li>
 </ul>
+
+<h2 align="center">*** Como Utilizar ***</h2>
+<p>É possível navegar pelo home, review, notícias e contatos. Abaixo temos um pequeno gif com a apresentação do site:</p>
+
 <img src="./src/imagens/animacao.gif" alt="Imagem Capa home" title="Tech Brasil">
-
-
-## Como Utilizar
-Site de notícias e entretenimento. Navegação de páginas e exploração. 
 
 ## Link da Página
 https://oseiasweb.github.io/Site-Noticias/

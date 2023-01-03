@@ -1,8 +1,9 @@
-# Projeto Site de Notícias (HTML+CSS)
-Esse é um projeto que aborda as técnicas Front End com o HTML, CSS e JS.
-Em produção...🦾👨‍💻
+<h1 align="center">Site Notícias</h1>
 
-[<img src="./src/imagens/animacao.gif" alt="Imagem Capa home" title="Tech Brasil">]
+<p>Esse é um projeto que aborda as técnicas Front End com o HTML, CSS e JS.
+Em produção...🦾👨‍💻</p>
+
+<img src="./src/imagens/animacao.gif" alt="Imagem Capa home" title="Tech Brasil">
 
 ## Tecnologias Utilizadas
 - HTML

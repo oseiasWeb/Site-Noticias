@@ -17,3 +17,8 @@
 <p>Abaixo temos o link da página para visualização e testes:</p>
 🔗 <a href="https://oseiasweb.github.io/Site-Noticias/" target="_black">Site Notícias</a><br> 
 
+<br>
+<h2 align="center">*** Status Projeto ***</h2>
+<p align="center">
+    <img src="./src/imagens/desenvolvimento.png" alt="Imagem Status" title="Tech Brasil">
+</p>

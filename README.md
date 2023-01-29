@@ -9,16 +9,16 @@
     </ul><br>
 </div>
 
-<h2 align="center">*** Como Utilizar ***</h2>
+<h2 align="center">🤔 Como Utilizar</h2><br>
 <p>É possível navegar pelo home, review, notícias e contatos. Abaixo temos um pequeno gif com a apresentação do site:</p>
+<img src="./src/imagens/animacao.gif" alt="Imagem Capa home" title="Tech Brasil"><i>Gif - Apresentação da página</i></p></br>
 
-<img src="./src/imagens/animacao.gif" alt="Imagem Capa home" title="Tech Brasil">
-
-<h2 align="center">*** Link da Página ***</h2>
+<h2 align="center">🔗 Link da página</h2>
 <p>Abaixo temos o link da página para visualização e testes:</p>
 🔗 <a href="https://oseiasweb.github.io/Site-Noticias/" target="_black">Site Notícias</a><br> 
 
 <br>
-<h2 align="center">*** Status Projeto ***</h2>
-< align="center">
-    <img src="./src/imagens/desenvolvimento.png" alt="Imagem Status" title="Tech Brasil">
+<h2 align="center">🏆 Status Projeto</h2>
+<p align="center">
+ <img src="src/imagens/desenvolvimento.png"/>
+</p>

@@ -9,7 +9,7 @@
     </ul><br>
 </div>
 
-<h2 align="center">🤔 Como Utilizar</h2><br>
+<h2 align="center">🤔 Como Utilizar </h2><br>
 <p>É possível navegar pelo home, review, notícias e contatos. Abaixo temos um pequeno gif com a apresentação do site:</p>
 <img src="./src/imagens/animacao.gif" alt="Imagem Capa home" title="Tech Brasil"><i>Gif - Apresentação da página</i></p></br>
 

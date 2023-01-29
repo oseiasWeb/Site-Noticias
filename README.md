@@ -1,12 +1,13 @@
-<h1 align="center">Site Notícias</h1>
+<h1 align="center">📰 Site Notícias 🖥️</h1>
+<p>A ideia do projeto nasceu com estudos em HTML, CSS e JS. Aos poucos o site está ganhado forma. Teremos o modelo de análises, notícias e contatos dos portais mais atuais do mercado.</p>
 
-<p>A ideia do projeto nasceu com estudos em HTML, CSS e JS. Aos poucos o site está ganhado forma. Teremos o modelo de análises, notícias e contatos dos portais mais atuais do mercado.
-
-<h2 align="center">*** Tecnologias Utilizadas ***</h2>
-<ul>
-    <li>HTML ✏️</li>
-    <li>CSS 🎨</li>
-</ul>
+<div align="center" valign="top"><br>
+ <h2>🕹️ Tecnologias Utilizadas</h2>
+    <ul align="center">
+        <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+        <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    </ul><br>
+</div>
 
 <h2 align="center">*** Como Utilizar ***</h2>
 <p>É possível navegar pelo home, review, notícias e contatos. Abaixo temos um pequeno gif com a apresentação do site:</p>
@@ -19,6 +20,5 @@
 
 <br>
 <h2 align="center">*** Status Projeto ***</h2>
-<p align="center">
+< align="center">
     <img src="./src/imagens/desenvolvimento.png" alt="Imagem Status" title="Tech Brasil">
-</p>
